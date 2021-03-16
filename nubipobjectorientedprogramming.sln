@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nubipobjectorientedprogramming", "nubipobjectorientedprogramming\nubipobjectorientedprogramming.csproj", "{E6D633F3-EBD0-4D03-BFEE-46C59E1C9C67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6D633F3-EBD0-4D03-BFEE-46C59E1C9C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6D633F3-EBD0-4D03-BFEE-46C59E1C9C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6D633F3-EBD0-4D03-BFEE-46C59E1C9C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6D633F3-EBD0-4D03-BFEE-46C59E1C9C67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D432A6F1-2C4E-40E2-8570-15B39A261938}
+	EndGlobalSection
+EndGlobal
